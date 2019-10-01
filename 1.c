@@ -2,7 +2,7 @@
 #include<string.h>
 int main()
 {
-/*Declaring variable*/
+/* variable*/
 char name[50], address[50];
 int enroll;
 
